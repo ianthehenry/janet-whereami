@@ -1,0 +1,3 @@
+[submodule "whereami"]
+	path = whereami
+	url = git@github.com:gpakosz/whereami.git
